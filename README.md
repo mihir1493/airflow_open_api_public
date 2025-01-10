@@ -7,6 +7,8 @@ Project Contents
 ================
 ![alt text](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/airflow1.png)
 ![alt text](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/docker1.png)
+![alt text](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/sql_data.png)
+
 
 Your Astro project contains the following files and folders:
 
