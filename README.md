@@ -5,8 +5,8 @@ Welcome to Astronomer! This project was generated after you ran 'astro dev init'
 
 Project Contents
 ================
-![alt text]([http://url/to/img.png](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/airflow1.png))
-![alt text]([http://url/to/img.png](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/docker1.png))
+![alt text]([http://url/to/img.png](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/airflow1.png)
+![alt text]([http://url/to/img.png](https://github.com/mihir1493/airflow_open_api_public/blob/main/tests/dags/docker1.png)
 
 Your Astro project contains the following files and folders:
 
